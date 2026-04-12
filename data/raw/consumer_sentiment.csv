@@ -1,0 +1,39 @@
+brand,category,theme,sentiment,volume
+Nike,Product Quality,Shoes feel less durable than before,-1,85
+Nike,Product Quality,Air Max still iconic and comfortable,1,60
+Nike,Pricing,Too expensive for the quality drop,-1,90
+Nike,Pricing,Collaborations worth the premium price,1,40
+Nike,Brand Identity,"Lost its cool factor, feels corporate",-1,88
+Nike,Brand Identity,Classic logo still universally recognized,1,55
+Nike,Innovation,No real innovation in years,-1,78
+Nike,Innovation,Vaporfly is still the best marathon shoe,1,45
+Nike,GenZ Appeal,GenZ sees it as their parents brand,-1,92
+Nike,GenZ Appeal,Nike SB still relevant in skate culture,1,30
+Nike,Availability,Hard to get hyped shoes without bots,-1,70
+New Balance,Product Quality,Incredibly comfortable out of the box,1,95
+New Balance,Product Quality,"Built to last, great materials",1,88
+New Balance,Pricing,Fair price for the quality,1,80
+New Balance,Pricing,Some collab pairs getting overpriced,-1,30
+New Balance,Brand Identity,"Authentic, not trying too hard",1,90
+New Balance,Brand Identity,The dad shoe turned cool narrative is stale,-1,25
+New Balance,Innovation,Fresh Foam and MADE in USA lines stand out,1,72
+New Balance,GenZ Appeal,The go-to casual shoe for GenZ right now,1,95
+New Balance,GenZ Appeal,Celebrities and influencers wearing NB daily,1,85
+Hoka,Product Quality,"Maximum cushion, knees feel great",1,98
+Hoka,Product Quality,Outsole wears down faster than expected,-1,42
+Hoka,Pricing,Pricey but worth it for long runs,1,75
+Hoka,Pricing,Too expensive for everyday casual wear,-1,38
+Hoka,Brand Identity,"Trusted by nurses, runners, and walkers",1,88
+Hoka,Brand Identity,Ugly design is a turnoff for fashion crowd,-1,50
+Hoka,Innovation,Midsole tech is genuinely ahead of others,1,85
+Hoka,GenZ Appeal,Gaining traction with health-conscious GenZ,1,65
+Hoka,GenZ Appeal,Not a style statement yet for most GenZ,-1,45
+On Running,Product Quality,CloudTec feels like running on air,1,90
+On Running,Product Quality,Narrow fit not great for wide feet,-1,48
+On Running,Pricing,"Very expensive, almost luxury pricing",-1,70
+On Running,Pricing,Worth it for serious runners,1,55
+On Running,Brand Identity,Premium Swiss brand image is aspirational,1,82
+On Running,Brand Identity,Roger Federer collab elevated the brand,1,78
+On Running,Innovation,CloudTec and Helion foam are genuinely new,1,80
+On Running,GenZ Appeal,Growing status symbol for affluent GenZ,1,72
+On Running,GenZ Appeal,"Too niche, not mainstream enough yet",-1,40
